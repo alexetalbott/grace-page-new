@@ -1,0 +1,17 @@
+.special {
+  color: red;
+}
+
+.grace_about {
+  color: blue;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.rowfact {
+  float: right;
+}
+
+.h2 {
+  float: left;
+}
